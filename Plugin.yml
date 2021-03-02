@@ -1,0 +1,7 @@
+main: me.Cesar.TelephathyEnchant.Main
+name: Telepathy
+author: Cesar
+version: 1.0
+
+commands:
+  Telephathy
