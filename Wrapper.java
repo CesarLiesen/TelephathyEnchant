@@ -10,7 +10,7 @@ public class Wrapper extends Enchantment{
 	private final String name;
 	private final int maxLvl;
 
-	//TelephatyEnchant(Telepathy 1) /enchant telepathy (Doesn't work with kits) 
+	//TelephatyEnchant(Telepathy 1) /enchant telephathy (Doesn't work with kits) 
 	//Minecraft(Telephaty 1) /enchatnt telephaty (works with kits)
 	
 	//minecraft enchant
